@@ -1,9 +1,3 @@
----
-tags: [agentapp, flower, multi-agent, peer-review, arxiv, academic-ai]
-dataset: []
-framework: [flower]
----
-
 # 🏛️ Autonomous Program Committee Review Simulation
 
 [![Flower AgentApp](https://img.shields.io/badge/Flower-AgentApp_1.35%2B-0080FF.svg)](https://flower.ai)

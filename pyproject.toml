@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "program-committee-review"
-version = "0.2.0"
+version = "0.2.1"
 description = "Multi-agent conference Program Committee review simulation on Flower Agent"
 license = { file = "LICENSE" }
 requires-python = ">=3.11,<4.0"

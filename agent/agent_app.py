@@ -718,7 +718,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--input",
         type=str,
-        default="https://arxiv.org/abs/2307.09288",
+        default="https://arxiv.org/abs/2605.11010",
         help="arXiv paper URL, ID, or raw text",
     )
     cli_args = parser.parse_args()

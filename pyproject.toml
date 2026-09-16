@@ -14,13 +14,13 @@ dependencies = ["flwr>=1.35.0,<2.0", "openai>=2.16.0,<3.0.0"]
 packages = ["agent"]
 
 [tool.flwr.app]
-publisher = "flwrlabs"
+publisher = "krithman"
 fab-format-version = 1
 flwr-version-target = "1.35.0"
 fab-include = ["agent/**/*.py", "LICENSE"]
 
 [tool.flwr.app.config.agent]
-input = "https://arxiv.org/abs/2307.09288"
+input = "https://arxiv.org/abs/2605.11010"
 
 [tool.flwr.app.components]
 agentapp = "agent.agent_app:app"
